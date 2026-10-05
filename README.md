@@ -44,3 +44,19 @@ student-performance-predictor/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+## 🎯 Project Purpose
+
+This project demonstrates the application of machine learning in education by using student academic and study-related factors to predict performance.
+
+## 🚀 Future Improvements
+
+- Improve prediction accuracy with additional data
+- Compare different machine learning algorithms
+- Add more student-related features
+- Deploy the application online
+
+## 👩‍💻 Author
+
+**Iswarya**
+
+GitHub: https://github.com/iswaryachowdary3011
