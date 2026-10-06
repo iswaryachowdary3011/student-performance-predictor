@@ -74,3 +74,5 @@ The purpose of this project is to understand the basic workflow of a machine lea
 **Iswarya**
 
 GitHub: https://github.com/iswaryachowdary3011
+## livelink
+https://student-performance-predictor-k9jwpobpvdiwwrb4hmabqy.streamlit.app/
